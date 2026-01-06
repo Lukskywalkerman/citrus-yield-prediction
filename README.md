@@ -14,11 +14,11 @@ This repository contains the dataset and predictive models (CatBoost) developed 
 
 ## 🛠️ How to use
 Click the badge below to run the analysis directly in Google Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](SUA_URL_DO_COLAB_AQUI)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1cQ51e6OtOarI31HaNczp5KIqVGYL_TMd?authuser=1#scrollTo=QAXERty1b3to&uniqifier=1])
 
 ## 📄 License
 This project is licensed under the MIT License.
 
 ## ✍️ Citation
 If you use this data or code, please cite:
-*Ames, G. (2025). Machine Learning for Yield Prediction in the Brazilian Citrus Belt.*
+*Tomiosso Junior, L. (2026). Machine Learning for Yield Prediction in the Brazilian Citrus Belt.*
