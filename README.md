@@ -9,6 +9,7 @@ This repository contains the dataset and predictive models (CatBoost) developed 
 
 ## 📂 Repository Structure
 - `/data`: Consolidates 21 variables including NDVI, NDWI, LST, and Soil Moisture.
+- `/figures`: images of the generated charts.
 - `/notebooks`: Colab-ready script for model training and SHAP analysis.
 - `/supplementary`: Multi-temporal GIFs (Bebedouro & Casa Branca) showing orchard expansion.
 
